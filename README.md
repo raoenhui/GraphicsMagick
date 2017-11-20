@@ -2,9 +2,9 @@
 用GraphicsMagick处理图片
 
 ## install
-1.install homebrew 
+### install homebrew 
  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-2.brew install GraphicsMagick
+### brew install GraphicsMagick
   brew install libpng
 
 ## nodejs图片处理工具gm用法
